@@ -7,7 +7,7 @@ My personal configuration files for a clean, minimal development setup.
 These dotfiles help me maintain a consistent environment across systems.
 
 Currently includes:
-- `.gitconfig` — git username
+- `.gitconfig` — git username, ui settings
 
 # Setup
 
